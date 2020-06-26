@@ -1,0 +1,24 @@
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\obj\Debug\Auto Attach.csprojResolveAssemblyReference.cache
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\obj\Debug\Auto Attach.csproj.GenerateResource.Cache
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\bin\Debug\Auto Attach.exe
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\obj\Debug\Auto Attach.exe
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\Gawean\HHP Project\Machine Auto\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+C:\Users\Administrator\Downloads\PT-master\Machine Auto\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\Users\Administrator\Downloads\PT-master\Machine Auto\Auto Attach\obj\Debug\Auto Attach.exe
+C:\Users\Administrator\Downloads\PT-master\Machine Auto\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto Attach.csproj.GenerateResource.Cache

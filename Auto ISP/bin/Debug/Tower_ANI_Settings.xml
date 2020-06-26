@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parameter>
+  <Tower>
+    <PortNo>COM10</PortNo>
+    <Baud>9600</Baud>
+    <DataBit>8</DataBit>
+    <StopBit>1</StopBit>
+    <Parity>None</Parity>
+    <LED1>02 31 77 30 30 34 39 03</LED1>
+    <LED2>02 32 77 30 30 38 39 03</LED2>
+    <LED3>02 33 77 30 30 37 39 03</LED3>
+  </Tower>
+</Parameter>

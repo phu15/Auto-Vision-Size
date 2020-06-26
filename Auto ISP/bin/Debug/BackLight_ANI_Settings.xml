@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parameter>
+  <BackLight>
+    <PortName>2</PortName>
+    <Baud>Hubble</Baud>
+    <Charity>2</Charity>
+    <Bit>False</Bit>
+</Parameter>

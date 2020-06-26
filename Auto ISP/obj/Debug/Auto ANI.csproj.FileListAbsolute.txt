@@ -1,0 +1,462 @@
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\halcondotnet.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\halcondotnet.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\01. Duong Van Phu\02. Document\Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.exe
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.pdb
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.pdb
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.dll
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.dll
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.xml
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.pdb
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.xml
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.xml
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+C:\MEG\Phu\Study\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\halcondotnet.dll
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\01. Duong Van Phu\03. Project\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.exe
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.pdb
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.pdb
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.dll
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.xml
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.pdb
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.xml
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.xml
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+C:\Users\sevt_user\Desktop\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.exe
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\06. Machine Auto ANI\Auto Attach\bin\Debug\PylonC.NET.xml
+D:\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.exe
+D:\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\06. Machine Auto ANI\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto Attach.exe
+D:\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.exe
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\PylonC.NET.xml
+D:\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+D:\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto Attach.exe
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto Attach.pdb
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.exe
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.pdb
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Basler.Pylon.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\PylonC.NET.dll
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Basler.Pylon.xml
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.pdb
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.xml
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\PylonC.NET.xml
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.exe
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Auto Attach.pdb
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Basler.Pylon.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\PylonC.NET.dll
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\Basler.Pylon.xml
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.pdb
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.xml
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\bin\Debug\PylonC.NET.xml
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto Attach.exe
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto Attach.pdb
+C:\Users\TRISYS\Desktop\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+C:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Original\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Auto Attach.exe
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\PylonC.NET.xml
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.cache
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto ANI.csproj.CoreCompileInputs.cache
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto ANI.csproj.CopyComplete
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto Attach.exe
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\MEG\Phu\Study\07. Auto ANI\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto ANI.csprojAssemblyReference.cache
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto Attach.exe
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Auto Attach.exe
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\bin\Debug\PylonC.NET.xml
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\07. Auto ANI\V03\06. Machine Auto ANI - Version V0.3\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.exe
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NETSupportLibrary.dll
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.xml
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.exe
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.pdb
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.pdb
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.dll
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.xml
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.pdb
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.xml
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.xml
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+C:\Users\sevt_user\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+C:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.exe
+C:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.exe
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.xml
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.frmMode.resources
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe.config
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.exe
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.pdb
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.pdb
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.dll
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.xml
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.pdb
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.xml
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.xml
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.frmMode.resources
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+D:\setup check roll casset\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csprojAssemblyReference.cache
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.frmMode.resources
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csproj.CoreCompileInputs.cache
+D:\MEG\Phu\Study\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csproj.CopyComplete
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.LoadingView.resources
+D:\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe.config
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.exe
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto Attach.pdb
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\EziMOTIONPlusR.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.exe
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Auto Attach.pdb
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.dll
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\Basler.Pylon.xml
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.pdb
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.xml
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\bin\Debug\PylonC.NET.xml
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.LoadingView.resources
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.MainForm.resources
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.frmMode.resources
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.GUI.TypeForm.resources
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto_Attach.Properties.Resources.resources
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csproj.GenerateResource.Cache
+C:\Users\TRISYS\Desktop\17.Casset Rolls Size Checker\Auto Attach\obj\Debug\Auto ANI.csprojResolveAssemblyReference.cache

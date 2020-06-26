@@ -1,0 +1,8 @@
+[09:26:40]CRs232CB::ReadComm(P4) Read Error : (GetLastError 995)
+[09:26:40]CRs232CB::DoSendCommand(P4) Port will be closed.
+[13:20:16]CRs232CB::RecvPacket(P4, S0, N0x8A, C0x51) Recv Timeout [levl:2, Read:8]
+Recv_Buffer :
+	0x00 0x8A 0x51 0x00 0xC0 0xD4 0x01 0x00 
+[13:20:16]CRs232CB::RecvPacket(P4, S0, N0x8A, C0x51) HEADER failed.
+Recv_Buffer :
+	0x1B 0xEA 0xAA 0xEE 
